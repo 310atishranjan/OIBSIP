@@ -1,0 +1,21 @@
+*{
+    background-color:rgb(214, 208, 89);
+}
+.buttons button:hover{
+    background-color:rgb(163, 17, 203);
+    border-radius: 10px;
+}
+.buttons button{
+    margin-top:15px;
+    padding:5px;
+    border-radius: 10px;
+    color:white;
+    background-color:rgb(10, 114, 137);
+    cursor:pointer;
+}
+h2{
+    color:rgb(219, 127, 15);
+}
+.exp{
+    color:blueviolet;
+}

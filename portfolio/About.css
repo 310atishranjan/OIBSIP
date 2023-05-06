@@ -1,0 +1,50 @@
+*{
+    margin:2px;
+    padding:0px;
+    /* background-color:rgb(247, 235, 98); */
+}
+.overall{
+    display:flex;
+}
+.write{
+    background-color:rgb(247, 235, 98);
+    width:100vw;
+    height:100vh;
+}
+.write .name{
+    color:rgb(211, 99, 99);
+    padding:5px;
+    font-size: xx-large;
+}
+.write .details{
+    color:rgb(34, 184, 11);
+    font-size: large;
+    padding:5px;
+}
+.write .address{
+    color:rgb(159, 82, 247);
+    font-size:large;
+    padding:5px;
+}
+.write .tenth{
+    color:rgb(128, 128, 128);
+    font-size:large;
+    padding:5px;
+}
+.write .inter{
+    color:rgb(128, 128, 128);
+    font-size:large;
+    padding:5px;
+}
+nav{
+    background-color: rgb(158, 158, 6);
+    height:100vh;
+}
+ nav li{
+    list-style: none;
+    padding:15px;
+    text-decoration: none;
+}
+ nav li a{
+    text-decoration: none;
+}
